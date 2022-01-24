@@ -34,7 +34,7 @@ function App() {
         </Marker>
         <Marker position={[51.926970, -123.141228]}>
           <Popup>
-            <img src={yunesitin} height={20} alt="Tl'etinqox" />
+            <img src={yunesitin} height={20} alt="Yuneŝit'in" />
             Yuneŝit'in <br />
           </Popup>
         </Marker>
