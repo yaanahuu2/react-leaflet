@@ -1,11 +1,12 @@
 import { Marker, Popup } from 'react-leaflet';
 
 export default function Tletinqox() {
+
     return (
 
         <Marker position={[52.012057, -123.171935]}>
             <Popup>
-                <img src={tletinqox} height={20} alt="Tl'etinqox" />
+                <img src={tletinqox} height={25} alt="Tl'etinqox" />
                 Tl'etinqox <br />
             </Popup>
         </Marker>
